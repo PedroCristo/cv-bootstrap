@@ -313,7 +313,6 @@ footer {
 }
 
 /* CONTACT PAGE */
-/* ----------------------------------------Contact Form */
 
 .contact-heading {
     font-family: "Exo", sans-serif;
@@ -334,9 +333,6 @@ button[type="submit"] {
     color: #fafafa;
     background-color: #e84610;
 }
-
-/* ----------------------------------------Media Queries */
-
 
 
 /* MEDIA QUERIES */
