@@ -141,7 +141,21 @@ header {
 }
 
 .menuitem:hover i{
-   color: #e84610;;
+   color: #e84610;
+}
+
+/* ABOUT */
+.three-reasons-icon {
+    font-size: 26px;
+    color:#e84610;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
+}
+
+.section-heading {
+    margin: 15px;
 }
 
 
@@ -172,9 +186,7 @@ footer {
     color: #fafafa;
     background: #8f8f8f;
     transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
+
 }
 
 .social-links li a i:hover {
